@@ -1,10 +1,10 @@
 # ACADOtoolkit-Adaptive-Reference-Trajectory-V1.0
 A add-on for the ACADO toolkit that enables adaptive reference trajectory functionality
 
-Installation Instructions:
+Installation Instructions: \\
 Merge the "controller" and "reference trajectory" folders with their counterparts in the ACADO toolkit installation folder and resolve all conflicts. 
 
-Use:
+Use: \\
 Simply replace the "StaticReferenceTrajectory" call by "AdaptiveReferenceTrajectory" when defining your reference.
 
 IMPORTANT NOTES:
